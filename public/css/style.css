@@ -1,0 +1,22 @@
+body{
+	background-color: #eaeaea
+}
+
+.icon{
+			background-color:#ededed; 
+			width: 38px; 
+			border: #dfdfdf 2px solid; 
+			border-radius: 5px;
+		}
+
+.icon i{
+			padding: 9px;
+
+		}
+.formInput{
+			margin-left: 0; 
+			width: 365px;
+		}
+.formInput textarea{
+			height: 38px;
+		}
